@@ -11,7 +11,7 @@ This project is a classic Tic-Tac-Toe game where a human player competes against
 * Command-line interface for simplicity
 * Easy to understand and extend
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Language: Python (or specify Java, C++, etc.)
 * Algorithm: Minimax (with or without Alpha-Beta pruning)
